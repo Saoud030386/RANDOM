@@ -1,0 +1,5 @@
+import RANDOM
+
+
+if __name__ == "__main__":
+    RANDOM.main()
